@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FernCampos/webapp_spring2021_expressclasswork.git"
+    "url": "git+https://github.com/absolutequy/node-express.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FernCampos/webapp_spring2021_expressclasswork/issues"
+    "url": "https://github.com/absolutequy/node-express.git/issues"
   },
-  "homepage": "https://github.com/FernCampos/webapp_spring2021_expressclasswork#readme",
+  "homepage": "https://github.com/absolutequy/node-express#readme",
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.1",
